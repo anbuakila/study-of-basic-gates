@@ -94,18 +94,21 @@ endmodule
 
 **Logic symbol & Truthtable**
 
-![Screenshot 2024-12-05 185658](https://github.com/user-attachments/assets/01373fec-e6e1-4200-ade5-4796bc95b8b3)
+![EX 1 TRUTH](https://github.com/user-attachments/assets/8fe16eef-711e-4a1e-8a78-4ae1687fde21)
+
 
 
 **RTL realization Output:** 
 
-![Screenshot 2024-12-05 185622](https://github.com/user-attachments/assets/347961de-e180-4a39-9934-9755ed50f5a5)
+![EX 1 RTL VIWER](https://github.com/user-attachments/assets/ae02f531-796b-4684-b66d-e88eba9a8ece)
+
 
 
 
 **RTL**
 
-![Screenshot 2024-12-05 185424](https://github.com/user-attachments/assets/8f898b78-df75-42dd-a82c-298a8d7a626c)
+![EX 1 RTL](https://github.com/user-attachments/assets/12c972f6-12f4-4afb-8d76-48efd149acee)
+
 
 
 **Result:**
